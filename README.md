@@ -1,18 +1,18 @@
 <br/>
 <p align="center">
-  <h3 align="center">Unreal Engine Scripts Repository</h3>
+  <h3 align="center">Game Dev Scripts Repository</h3>
 
   <p align="center">
-    A collection of various scripts for Unreal Engine
+    A collection of various scripts for game development.
     <br/>
     <br/>
-    <a href="https://github.com/bwvanlith/Scripts_Unreal/issues">Report Bug</a>
+    <a href="https://github.com/bwvanlith/Scripts_GameDevelopment/issues">Report Bug</a>
     .
-    <a href="https://github.com/bwvanlith/Scripts_Unreal/issues">Request Feature</a>
+    <a href="https://github.com/bwvanlith/Scripts_GameDevelopment/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/bwvanlith/Scripts_Unreal/total) ![Forks](https://img.shields.io/github/forks/bwvanlith/Scripts_Unreal?style=social) ![Issues](https://img.shields.io/github/issues/bwvanlith/Scripts_Unreal) ![License](https://img.shields.io/github/license/bwvanlith/Scripts_Unreal) 
+![Downloads](https://img.shields.io/github/downloads/bwvanlith/Scripts_GameDevelopment/total) ![Forks](https://img.shields.io/github/forks/bwvanlith/Scripts_GameDevelopment?style=social) ![Issues](https://img.shields.io/github/issues/bwvanlith/Scripts_GameDevelopment) ![License](https://img.shields.io/github/license/bwvanlith/Scripts_GameDevelopment) 
 
 ## Table Of Contents
 
